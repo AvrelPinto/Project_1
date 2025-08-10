@@ -7,28 +7,28 @@ body {
 }
 
 #croissant{
-    background-image: url(images/crois.jpg);
+    background-image: url(/images/crois.jpg);
    
 }
 
 #cookies{
-    background-image: url(images/cookiez.jpg);
+    background-image: url(/images/cookiez.jpg);
 }
 
 #garlic{
-     background-image: url(images/breads.jpg);
+     background-image: url(/images/breads.jpg);
 }
 
 #pizza{
-     background-image: url(images/pizzas.jpg);
+     background-image: url(/images/pizzas.jpg);
 }
 
 #oreo{
-     background-image: url(images/oreos.jpg);
+     background-image: url(/images/oreos.jpg);
 }
 
 #jalebi{
-     background-image: url(images/jalebis.jpg);
+     background-image: url(/images/jalebis.jpg);
 }
 
 header {
@@ -112,4 +112,5 @@ footer {
     text-align: center;
     padding: 1em 0;
     margin-top: 2em;
+
 }
